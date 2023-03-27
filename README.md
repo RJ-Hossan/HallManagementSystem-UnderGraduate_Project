@@ -10,7 +10,7 @@ Hall Management System Integrated User Interface is a PC app to maintain institu
 
 ❖ User Panel: By login as an user, user will get the overall interface as an user where he/she can see the recent announcement from the hall administration as well as can complain about anything if it’s necessary related with hall management which will be monitored by the admin panel.
 
-#System Specification:
+# System Specification:
 ❖ Hardware Requirements: PC or Laptop since it’s a PC based app.
 ❖ Software Specification: To do make the system, the following tools are being used-
   • Front-End : Java Swing as GUI (Graphical User Interface)
