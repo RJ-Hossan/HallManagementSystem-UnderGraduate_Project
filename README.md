@@ -16,7 +16,7 @@ Hall Management System Integrated User Interface is a PC app to maintain institu
 
 ❖ Software Specification: To do make the system, the following tools are being used-
 
-  • Front-End : Java Swing as GUI (Graphical User Interface)
-  • Back-End : Java, MySQL
-  • Local Server : XAMPP as a Control Panel v3.3.0
-  • IDE : Apache NetBeans IDE 16.
+  # Front-End : Java Swing as GUI (Graphical User Interface)
+  # Back-End : Java, MySQL
+  # Local Server : XAMPP as a Control Panel v3.3.0
+  # IDE : Apache NetBeans IDE 16.
